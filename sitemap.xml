@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<url>
+  <loc>https://site.urawaza-studio.com/</loc>
+  <priority>1.0</priority>
+  <lastmod>2023-11-16</lastmod>
+</url>
+<url>
+  <loc>https://site.urawaza-studio.com/game/</loc>
+  <priority>1.0</priority>
+  <lastmod>2023-11-16</lastmod>
+</url>
+<url>
+  <loc>https://site.urawaza-studio.com/game/magmacatcher/</loc>
+  <priority>1.0</priority>
+  <lastmod>2023-11-16</lastmod>
+</url>
+<url>
+  <loc>https://site.urawaza-studio.com/game/boomerang-knight/</loc>
+  <priority>1.0</priority>
+  <lastmod>2023-11-16</lastmod>
+</url>
+<url>
+  <loc>https://site.urawaza-studio.com/news/20201107/</loc>
+  <priority>0.8</priority>
+  <lastmod>2020-11-07</lastmod>
+</url>
+<url>
+  <loc>https://site.urawaza-studio.com/news/20210125/</loc>
+  <priority>0.8</priority>
+  <lastmod>2021-01-25</lastmod>
+</url>
+<url>
+  <loc>https://site.urawaza-studio.com/news/20211104/</loc>
+  <priority>0.8</priority>
+  <lastmod>2021-11-04</lastmod>
+</url>
+<url>
+  <loc>https://site.urawaza-studio.com/news/20220218/</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-02-18</lastmod>
+</url>
+<url>
+  <loc>https://site.urawaza-studio.com/news/20220528/</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-05-28</lastmod>
+</url>
+<url>
+  <loc>https://site.urawaza-studio.com/privacy/</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-11-16</lastmod>
+</url>
+
+</urlset>
